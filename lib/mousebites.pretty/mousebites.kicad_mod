@@ -1,0 +1,152 @@
+(footprint "mousebites"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -1.524 0)
+		(layer "Dwgs.User")
+		(uuid "1d512207-7556-48dd-8e79-7f39f3f40884")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "bites"
+		(at 0 1.6 0)
+		(layer "Dwgs.User")
+		(uuid "e65f9165-f447-4ebd-b456-9dba373b7cf0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "mousebites"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "20080cf7-946b-4369-914a-11339f598223")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "578bbf49-c874-415a-b642-257f0bd1b4a2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "458842e5-88df-4bb6-9fd9-cf34df8b558e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_line
+		(start -2.794 0)
+		(end 2.794 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "5b1a00b4-a57d-45fc-b1be-cbf06c14ad55")
+	)
+	(pad "" np_thru_hole circle
+		(at -4 0)
+		(size 0.6 0.6)
+		(drill 0.6)
+		(layers "*.Mask")
+		(uuid "a48e3633-2569-4035-90c0-dddc4eb827d4")
+	)
+	(pad "" np_thru_hole circle
+		(at -3.2 0)
+		(size 0.6 0.6)
+		(drill 0.6)
+		(layers "*.Mask")
+		(uuid "5045acef-8aac-4fcd-bd81-dde765dd63ec")
+	)
+	(pad "" np_thru_hole circle
+		(at -2.4 0)
+		(size 0.6 0.6)
+		(drill 0.6)
+		(layers "*.Mask")
+		(uuid "76de01d3-9599-4ed6-9d0a-6d9157bdfe3d")
+	)
+	(pad "" np_thru_hole circle
+		(at -1.6 0)
+		(size 0.6 0.6)
+		(drill 0.6)
+		(layers "*.Mask")
+		(uuid "a4006ff9-0083-465a-8cc1-9d3e1f059b12")
+	)
+	(pad "" np_thru_hole circle
+		(at -0.8 0)
+		(size 0.6 0.6)
+		(drill 0.6)
+		(layers "*.Mask")
+		(uuid "4a9e055a-614e-4195-b25b-34f0185517e5")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 0.6 0.6)
+		(drill 0.6)
+		(layers "*.Mask")
+		(uuid "5035d24b-1c3e-42a2-9883-aa57fb2989b0")
+	)
+	(pad "" np_thru_hole circle
+		(at 0.8 0)
+		(size 0.6 0.6)
+		(drill 0.6)
+		(layers "*.Mask")
+		(uuid "60cef2ec-a378-461a-9518-2c6d81c2f94b")
+	)
+	(pad "" np_thru_hole circle
+		(at 1.6 0)
+		(size 0.6 0.6)
+		(drill 0.6)
+		(layers "*.Mask")
+		(uuid "49fa96c4-4924-47ca-a98e-dcd7369229bf")
+	)
+	(pad "" np_thru_hole circle
+		(at 2.4 0)
+		(size 0.6 0.6)
+		(drill 0.6)
+		(layers "*.Mask")
+		(uuid "3a4f3efc-0569-45d2-a86f-d4cd409064c6")
+	)
+	(pad "" np_thru_hole circle
+		(at 3.2 0)
+		(size 0.6 0.6)
+		(drill 0.6)
+		(layers "*.Mask")
+		(uuid "cf6d4933-6136-4f0b-a61b-030de501d35d")
+	)
+	(pad "" np_thru_hole circle
+		(at 4 0)
+		(size 0.6 0.6)
+		(drill 0.6)
+		(layers "*.Mask")
+		(uuid "5262aa1e-5e83-4a4c-be04-0bf7d5d94faa")
+	)
+)
